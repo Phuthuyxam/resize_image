@@ -169,7 +169,8 @@
     
     }
     render_header_image();
-
+    
+    echo "asdasdasd";
 
 
     // this my comment 
